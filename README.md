@@ -1,6 +1,6 @@
 
 
-# DegenSolana
+# Degen Solana
 
 **DegenSolana** is a leveraged meme farming protocol built on the Solana blockchain. It enables users to maximize their yield and participate in the vibrant world of meme coins and DeFi on Solana.
 
